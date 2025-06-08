@@ -1,0 +1,2 @@
+# Giidea_official_wiki
+Giideaの公式wikiコンテンツリポジトリです
