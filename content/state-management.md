@@ -1,13 +1,22 @@
 ---
 title: "State Management パターン"
 slug: "state-management"
-tags: ["react", "redux", "zustand", "state", "architecture"]
-author_id: "system"
+tags: ["React", "Redux", "Zustand", "State", "Architecture"]
+author_id: "00000000-0000-0000-0000-000000000001"
 created_at: "2024-01-15T10:00:00Z"
-updated_at: "2024-01-15T10:00:00Z"
-category: "architecture"
-difficulty: "intermediate"
-estimated_reading_time: 15
+relations:
+  - type: "parent"
+    slug: "react"
+  - type: "prerequisite"
+    slug: "react-hooks-basics"
+  - type: "comparison"
+    slug: "redux"
+  - type: "comparison"
+    slug: "zustand"
+  - type: "comparison"
+    slug: "mobx"
+  - type: "alternative"
+    slug: "context-api"
 ---
 
 # State Management パターン

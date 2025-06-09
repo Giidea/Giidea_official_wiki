@@ -1,13 +1,22 @@
 ---
 title: "Node.js Event Loop の仕組み"
 slug: "nodejs-event-loop"
-tags: ["nodejs", "javascript", "backend", "async", "performance"]
-author_id: "system"
+tags: ["Node.js", "JavaScript", "Backend", "Async", "Performance"]
+author_id: "00000000-0000-0000-0000-000000000001"
 created_at: "2024-01-15T11:00:00Z"
-updated_at: "2024-01-15T11:00:00Z"
-category: "backend"
-difficulty: "advanced"
-estimated_reading_time: 20
+relations:
+  - type: "parent"
+    slug: "nodejs"
+  - type: "prerequisite"
+    slug: "javascript-async"
+  - type: "child"
+    slug: "nodejs-timers"
+  - type: "child"
+    slug: "nodejs-streams"
+  - type: "comparison"
+    slug: "browser-event-loop"
+  - type: "alternative"
+    slug: "worker-threads"
 ---
 
 # Node.js Event Loop の仕組み

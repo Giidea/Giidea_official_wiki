@@ -1,13 +1,20 @@
 ---
 title: "React Hooks の基礎"
 slug: "react-hooks-basics"
-tags: ["react", "hooks", "frontend", "javascript"]
-author_id: "system"
+tags: ["React", "Hooks", "JavaScript", "Frontend"]
+author_id: "00000000-0000-0000-0000-000000000001"
 created_at: "2024-01-15T09:00:00Z"
-updated_at: "2024-01-15T09:00:00Z"
-category: "frontend"
-difficulty: "beginner"
-estimated_reading_time: 10
+relations:
+  - type: "parent"
+    slug: "react"
+  - type: "prerequisite"
+    slug: "react-components"
+  - type: "child"
+    slug: "usestate-hook"
+  - type: "child"
+    slug: "useeffect-hook"
+  - type: "comparison"
+    slug: "vue-composition-api"
 ---
 
 # React Hooks の基礎
