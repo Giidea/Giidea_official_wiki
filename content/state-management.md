@@ -7,16 +7,12 @@ created_at: "2024-01-15T10:00:00Z"
 relations:
   - type: "parent"
     slug: "react"
-  - type: "prerequisite"
-    slug: "react-hooks-basics"
   - type: "comparison"
     slug: "redux"
   - type: "comparison"
     slug: "zustand"
   - type: "comparison"
     slug: "mobx"
-  - type: "alternative"
-    slug: "context-api"
 ---
 
 # State Management パターン

@@ -7,8 +7,6 @@ created_at: "2024-01-15T09:00:00Z"
 relations:
   - type: "parent"
     slug: "react"
-  - type: "prerequisite"
-    slug: "react-components"
   - type: "child"
     slug: "usestate-hook"
   - type: "child"

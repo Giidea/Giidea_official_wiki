@@ -7,16 +7,12 @@ created_at: "2024-01-15T11:00:00Z"
 relations:
   - type: "parent"
     slug: "nodejs"
-  - type: "prerequisite"
-    slug: "javascript-async"
   - type: "child"
     slug: "nodejs-timers"
   - type: "child"
     slug: "nodejs-streams"
   - type: "comparison"
     slug: "browser-event-loop"
-  - type: "alternative"
-    slug: "worker-threads"
 ---
 
 # Node.js Event Loop の仕組み
